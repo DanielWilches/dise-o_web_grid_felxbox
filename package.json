@@ -1,0 +1,24 @@
+{
+  "name": "grid_flexboc",
+  "version": "1.0.0",
+  "description": "este un repaso de css grid y css flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielWilches/dise-o_web_grid_felxbox.git"
+  },
+  "author": "daniel prieto wilches",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielWilches/dise-o_web_grid_felxbox/issues"
+  },
+  "homepage": "https://github.com/DanielWilches/dise-o_web_grid_felxbox#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
